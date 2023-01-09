@@ -5422,7 +5422,7 @@ msgid ""
 msgstr "{{pro_site_name}} je zmogljivo, popolnoma opremljeno orodje za IJZ za novinarje."
 
 msgid "{{public_body_link_absolute}}"
-msgstr "{{javni_organ_povezava_absolutna}}"
+msgstr "{{public_body_link_absolute}}"
 
 msgid "{{public_body_link}} answered a request about"
 msgstr "{{public_body_link}} je odgovoril na zahtevek o"

@@ -2550,7 +2550,7 @@ msgid "Posted on {{date}} by {{author}}"
 msgstr "Objavlil {{author}} dne {{date}}"
 
 msgid "Powered by <a href=\"http://www.alaveteli.org/\">Alaveteli</a>"
-msgstr "Stran poganja <a href=\"http://www.alaveteli.org/\">Alaveteli</a>, za njeno delovanje skrbi <a href=\"https://danesjenovdan.si/\">Danes je nov dan, Inštitut za druga vprašanja</a>. Platforma Vprašaj državo je bila vzpostavljena v sklopu projekta Vprašaj državo: enostaven dostop do informacij javnega značaja, ki ga je v letih 2022-2023 financiralo Ministrstvo za javno upravo in ga koordinira Transparency International Slovenia."
+msgstr "Stran poganja <a href=\"http://www.alaveteli.org/\">Alaveteli</a>, za njeno delovanje skrbi <a href=\"https://danesjenovdan.si/\">Danes je nov dan, Inštitut za druga vprašanja</a>. Platforma Vprašaj državo je bila vzpostavljena v sklopu projekta Vprašaj državo: enostaven dostop do informacij javnega značaja, ki ga je v letih 2022-2023 financiralo Ministrstvo za javno upravo iz sklada za razvoj NVO in ga koordinira Transparency International Slovenia."
 
 msgid "Prefer not to receive emails?"
 msgstr "Ne želite prejemati e-pošte?"
